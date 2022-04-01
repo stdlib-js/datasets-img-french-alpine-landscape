@@ -1,0 +1,34 @@
+{
+  "name": "@stdlib/datasets-img-french-alpine-landscape",
+  "version": "0.0.0",
+  "description": "Image of a French alpine landscape.",
+  "license": "Apache-2.0",
+  "main": "./bundle.js",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/datasets-img-french-alpine-landscape.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "datasets",
+    "dataset",
+    "data",
+    "image",
+    "img",
+    "landscape",
+    "mountains",
+    "alpine",
+    "alps",
+    "nature",
+    "france",
+    "french"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
